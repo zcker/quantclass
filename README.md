@@ -6,3 +6,10 @@
 
 ## 使用指南
 
+1. 于[我的资料 - 量化小论坛 (quantclass.cn)](https://bbs.quantclass.cn/my/profile)中设置密码
+2. 安装软件，登录
+3. 浏览即可
+
+## 哈勃
+
+![image-20220323093813828](http://img.770627.xyz/20220323093829.png)
