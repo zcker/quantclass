@@ -1,4 +1,4 @@
-# 量化小讲堂 uniapp封装
+# 量化小讲堂 Android客户端 uniapp封装
 
 ## 动机
 
